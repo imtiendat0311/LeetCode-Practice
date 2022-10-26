@@ -1,4 +1,6 @@
-# LeetCode-Practice
+# LeetCode Practice
 
 ## Problem
-Add Two Numbers
+- Add Two Numbers
+- Two Sum 
+- Roman to Integer
