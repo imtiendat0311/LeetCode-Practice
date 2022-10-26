@@ -11,8 +11,6 @@ class Solution:
         a = ""
         b = ""
         d = []
-        temp = l1 
-        temp2 = l2
         while l1!=None or l2!=None:
             if(l1!=None):
                 a = str(l1.val)+a
