@@ -9,3 +9,4 @@
 - Plus One
 - Remove Duplicates from Sorted List
 - Validate Binary Search Tree
+- Sqrt(x)
