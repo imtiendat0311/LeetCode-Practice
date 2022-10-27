@@ -1,3 +1,6 @@
+# Faster than 93.23% online python3 submission
+# Use Less Mem than 56.77% online python3 submission
+
 class Solution:
     def mySqrt(self, x: int) -> int:
         a, b = 0, x
