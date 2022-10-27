@@ -7,4 +7,5 @@
 - Merge Two Sorted Lists
 - Search Insert Position
 - Plus One
+- Remove Duplicates from Sorted List
 - Validate Binary Search Tree
