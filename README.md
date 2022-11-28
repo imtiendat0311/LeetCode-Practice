@@ -11,8 +11,10 @@
 - Validate Binary Search Tree
 - Sqrt(x)
 - Power of Two
+- Power of Three
 - Partition Equal Subset Sum
 - Binary Tree Inorder Traversal
 - Binary Tree Postorder Traversal
 - Binary Tree Preorder Traversal
 - Find the Index of the First Occurrence in a String
+- Length of Last Word
