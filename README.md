@@ -12,6 +12,7 @@
 - Sqrt(x)
 - Power of Two
 - Power of Three
+- Power of Four
 - Check if Number is a Sum of Powers of Three
 - Partition Equal Subset Sum
 - Binary Tree Inorder Traversal
