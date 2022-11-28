@@ -13,3 +13,5 @@
 - Power of Two
 - Partition Equal Subset Sum
 - Binary Tree Inorder Traversal
+- Binary Tree Postorder Traversal
+- Binary Tree Preorder Traversal
