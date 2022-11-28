@@ -12,3 +12,4 @@
 - Sqrt(x)
 - Power of Two
 - Partition Equal Subset Sum
+- Binary Tree Inorder Traversal
