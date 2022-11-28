@@ -11,3 +11,4 @@
 - Validate Binary Search Tree
 - Sqrt(x)
 - Power of Two
+- Partition Equal Subset Sum
