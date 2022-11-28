@@ -14,9 +14,12 @@
 - Power of Three
 - Power of Four
 - Check if Number is a Sum of Powers of Three
-- Partition Equal Subset Sum
 - Binary Tree Inorder Traversal
 - Binary Tree Postorder Traversal
 - Binary Tree Preorder Traversal
 - Find the Index of the First Occurrence in a String
 - Length of Last Word
+## TIKTOK
+- LRU Cache - Medium 
+## META
+- Partition Equal Subset Sum
