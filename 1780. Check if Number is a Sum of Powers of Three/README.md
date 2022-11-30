@@ -21,4 +21,4 @@ Input: n = 21
 Output: false
 ```
 ## Constraints:
-- ```1 <= n <= 107```
+- ```1 <= n <= 10^7```

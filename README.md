@@ -19,7 +19,10 @@
 - Binary Tree Preorder Traversal
 - Find the Index of the First Occurrence in a String
 - Length of Last Word
+- Unique Number of Occurrences
 ## TIKTOK
-- LRU Cache - Medium 
+- LRU Cache
+- Coin Change
+- Minimum Increment to Make Array Unique
 ## META
 - Partition Equal Subset Sum

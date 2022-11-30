@@ -22,4 +22,4 @@ Output: false
 Explanation: There is no x where 3x = (-1).
 ```
 ## Constraints:
-- ```-231 <= n <= 231 - 1```
+- ```-2^31 <= n <= 2^31 - 1```
