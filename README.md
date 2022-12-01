@@ -20,6 +20,7 @@
 - Find the Index of the First Occurrence in a String
 - Length of Last Word
 - Unique Number of Occurrences
+- Determine if String Halves Are Alike
 ## TIKTOK
 - LRU Cache
 - Coin Change
